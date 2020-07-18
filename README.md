@@ -3,6 +3,8 @@ It's a game about nothing! Or is it?
 
 It’s a game about nothing! Or at least that is what a blink would tell you from it’s perspective. That is because if any input is received by the blink it’s game over. This absurdly simple concept serves as the basis for five new blinks games outlined below, as well as new “cameos” which allow players to modify other games in their existing blinks library. Feel free to modify the rules of these games as you see fit and make them your own. Use this concept to make your own new games, or even to remix existing blinks games. The possibilities are endless….
 
+# The Games:
+
 Firing squad - One player holds their finger on top of a blink in the middle of the table. They can move it, but only gently enough to not activate a button press. All other players slide blinks from the edges of the table trying to kill the center blink. Whoever lands the killing blow takes the new place in the center.
 
 Ninja - Players hold a blink between two fingers in one hand and place it flat on the table with the top button easily accessible to be pressed. Turns go clockwise around the table. On their turn, players can either reposition their blink on the table, or use their other hand to lunge at another players’ buttons. Lunges must be in one motion and can not change direction. A player being attacked can try to dodge, but only after the attacking player is closer than half the distance from where they started. Once a player lunges they are frozen at the end of their lung until their next turn. The next player in the rotation can then take their turn immediately after so game play is lightning fast. Players are eliminated when their blink is pressed.
@@ -13,7 +15,7 @@ Dodge Ball - A childhood classic re-imagined for blinks. Divide your table or pl
 
 Blink Blitz - Place blinks in a line one inch apart and try to tap your finger back and forth between them as fast as you possibly can until you trigger a blink. Think those crazy finger knife dodging videos on YouTube. At least here everyone can leave with their fingers intact! Alternate mode - Arrange 4 blinks in a Y configuration and tap quickly between each side.
 
-Cameos:
+# Cameos:
 
 Flic Flop - Use Nothing blinks as skill obstacles to be avoided when sliding the blinks towards the flopper. Any accidental connections with a Nothing blink cost the team one point.
 
