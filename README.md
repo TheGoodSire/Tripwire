@@ -24,5 +24,3 @@ Astro - Place Nothing blinks amidst the asteroid field to create black holes. An
 Heist - Place Nothing blinks around the vault to act as security guards. Any players that accidentally alerts a security guard by connecting to them lose one gold piece.
 
 Dynamo - Power Struggle Remix - Players must find a way to hold a Nothing blink in the same hand as the Dynamo blink while playing power struggle. The normal rules apply, but if the Nothing blink gets triggered or connects to the Dynamo blink the player also loses.
-
-Special thanks to @jrcwest for encouraging me to develop this concept further! Be sure to let me know what games or cameos you come up with, and as always have fun!
