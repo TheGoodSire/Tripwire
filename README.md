@@ -25,4 +25,4 @@ Heist - Place Nothing blinks around the vault to act as security guards. Any pla
 
 Dynamo - Power Struggle Remix - Players must find a way to hold a Nothing blink in the same hand as the Dynamo blink while playing power struggle. The normal rules apply, but if the Nothing blink gets triggered or connects to the Dynamo blink the player also loses.
 
-RESET - To bring a blink back from death mode, simply seperate it out by itself and cease any button presses for 10 seconds.
+RESET - To bring a blink back from death mode, simply separate it out by itself and cease any button presses for 10 seconds.
