@@ -19,7 +19,7 @@ void loop() {
   switch (blinkState) {
     case ALIVE:
       aliveLoop();
-      aliveDisplay;
+      aliveDisplay();
       break;
     case DEAD1:
       dead1Loop();
