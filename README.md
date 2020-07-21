@@ -29,6 +29,6 @@ Heist - Place Nothing blinks around but not connected to the vault to act as sec
 
 Dynamo - Power Struggle Remix - Players must find a way to hold a Nothing blink in the same hand as the Dynamo blink while playing power struggle. The normal rules apply, but if the Nothing blink gets triggered or connects to the Dynamo blink the player also loses.
 
-Group Therapy - Anxious thoughts keep interuptuing the group therapy session. Place blink anxiety bombs (Nothing blinks) around the outside of the group therapy cluster, but not directly attached. When seperating out the introvert and extrovert blinks the anxiety bombs must be avoided. If any blink accidentally connects to an anxity bomb you lose.
+Group Therapy - Anxious thoughts keep interuptuing the group therapy session. Place blink anxiety bombs (Nothing blinks) around the outside of the group therapy cluster, but not directly attached. When seperating out the introvert and extrovert blinks the anxiety bombs must be avoided. If any blink accidentally connects to an anxiety bomb you lose.
 
 RESET - To bring a blink back from death mode, simply avoid pressing, connecting, or separating the blink for 10 seconds.
