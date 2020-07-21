@@ -1,7 +1,7 @@
 # Nothing
 It's a game about nothing!
 
-Or at least that is what a blink would tell you from it’s perspective. That is because if any input is received by the blink it dies and it’s game over. This absurdly simple concept serves as the basis for five new blinks games outlined below, as well as new “cameos” which allow players to modify other games in their existing blinks library. Feel free to modify the rules of these games as you see fit and make them your own. Use this concept to make your own new games, or even to remix existing blinks games. The possibilities are endless….
+Or at least that is what a blink would tell you from it’s perspective. That is because if any input is received by the blink it dies and it’s game over. This absurdly simple concept serves as the basis for seven new blinks games outlined below, as well as new “cameos” which allow players to modify other games in their existing blinks library. Feel free to modify the rules of these games as you see fit and make them your own. Use this concept to make your own new games, or even to remix existing blinks games. The possibilities are endless….
 
 Please use v1.0 for now as it is the only version functioning correctly.
 
@@ -17,14 +17,20 @@ Dodge Ball - A childhood classic re-imagined for blinks. Divide your table or pl
 
 Blink Blitz - Place blinks in a line one inch apart and try to tap your finger back and forth between them as fast as you possibly can until you trigger a blink. Think those crazy finger knife dodging videos on YouTube. At least here everyone can leave with their fingers intact! Alternate modes - Arrange 4 blinks in a Y configuration and tap quickly between each side. Arrange 6 blinks in a zig-zag pattern and tap on the gap spaces.
 
+War of Tugs - Start the game by placing all blinks together in one group at the center of the table. All players count down together from 3. Once they get to zero everyone places one finger on the blink pile and pulls to separate as many blinks as they can to add to their pile. Players then take turns setting their own blink piles in the center of the table. Everyone then counts down again from 3 and lunges at the pile to pull away as many blinks as they can with one finger to add to their piles. Lunges must be in one continuous motion and if someone misses they do not get another chance. The player whose stack is in the center starts with their finger on the pile and can try to move it as much as they can to dodge finger lunges at the end of the countdown. A round is over when every player at the table places has their turn in the center. Whoever has the most blinks after 3 rounds of play is the winner. If you ever run out of blinks before the end of the game you are eliminated. Rounds always start with the player who has the least current blinks and goes clockwise. 
+
+Tractor Pull - The goal of this game is to pull as many blinks as you can across the table without them separating. To start, players can use as many blinks as they want and any configuration that they want to build a "trailer". After construction, the player grabs a non-trailer blink to use as a tractor. Players grab the tractor with two fingers and connect it to any point on the "trailer" that they want. Players then try to drag the "trailer" from one side of the table to the other. If at any point during the pull any of the blinks separate it is game over. The winner is the player who pulls the "trailer" with the most blinks across the table with none separating. 
+
 # Cameos:
 
 Flic Flop - Use Nothing blinks as skill obstacles to be avoided when sliding the blinks towards the flopper. Any accidental connections with a Nothing blink cost the team one point.
 
 Astro - Place Nothing blinks amidst the asteroid field to create black holes. Any players or asteroid that connects to a nothing blink enters its pull and becomes unavailable to use the rest of the game.
 
-Heist - Place Nothing blinks around the vault to act as security guards. Any players that accidentally alerts a security guard by connecting to them lose one gold piece.
+Heist - Place Nothing blinks around but not connected to the vault to act as security guards. Any players that accidentally alerts a security guard by connecting to them lose one gold piece.
 
 Dynamo - Power Struggle Remix - Players must find a way to hold a Nothing blink in the same hand as the Dynamo blink while playing power struggle. The normal rules apply, but if the Nothing blink gets triggered or connects to the Dynamo blink the player also loses.
+
+Group Therapy - Anxious thoughts keep interuptuing the group therapy session. Place blink anxiety bombs (Nothing blinks) around the outside of the group therapy cluster, but not directly attached. When seperating out the introvert and extrovert blinks the anxiety bombs must be avoided. If any blink accidentally connects to an anxity bomb you lose.
 
 RESET - To bring a blink back from death mode, simply separate it out by itself and cease any button presses for 10 seconds.
