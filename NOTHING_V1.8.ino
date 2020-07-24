@@ -7,7 +7,7 @@ Color selectColors [3] = {BLUE, RED, YELLOW};
 void setup() {deathTimer.set(DEATH_SWITCH*2); randomize(); hue = random(255);}
 void loop() {
   numNeighbors = 0; FOREACH_FACE(f) {if (!isValueReceivedOnFaceExpired(f)) numNeighbors++;}
-  if (buttonLongPressed()) {deathTimer.set(DEATH_INTERVAL); switchTimer.set(2500); byte index = random(2) + 1; byte dice = random(5); blinkState = SELECT;} 
+  if (buttonLongPressed()) {deathTimer.set(DEATH_INTERVAL); switchTimer.set(2500); index = random(2); dice = random(5); blinkState = SELECT;} 
   if (blinkState == ALIVE) {
     if (buttonPressed() || pastNeighbors != numNeighbors) {deathTimer.set(DEATH_INTERVAL); blinkState = DEAD;}
     if (nextStep.isExpired()) {setColor(makeColorHSB(hue,255,255)); hue++; nextStep.set((random(6)+1)*10);}
