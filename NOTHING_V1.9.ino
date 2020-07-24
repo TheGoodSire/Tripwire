@@ -11,7 +11,7 @@ void loop() {setValueSentOnAllFaces(bS); numN = 0; FOREACH_FACE(f) {if (!isValue
   if (bS == DEAD) { setColor(makeColorHSB(hue,255,255)); COF(WHITE, dead); COF(WHITE, dead+2); COF(WHITE, dead+4);
     if (deathT.isExpired()) {pastN = numN; bS = ALIVE;}
     if (switchT.isExpired()) {switchT.set(DS); dead = (dead + 1) % 2;}}
-  if (bS == SELECT) { setColor(makeColorHSB(hue,255,255)); if (nextS.isExpired()) {hue+5; nextS.set(3);}
+  if (bS == SELECT) { setColor(makeColorHSB(hue,255,255)); if (nextS.isExpired()) {hue = hue+5; nextS.set(3);}
     if (deathT.isExpired()) {pastN = numN; bS = ALIVE;}
     if (switchT.isExpired()) {setColor(selectColors[index]); 
       switch (dice) {  case 0: COF(OFF, 0); case 1: COF(OFF, 1); case 2: COF(OFF, 2);
