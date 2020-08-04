@@ -1,4 +1,4 @@
-![Nothing Game Art]()
+![Nothing Game Art](https://github.com/TheGoodSire/Nothing/blob/master/Nothing%20Game%20Art.jpg)
 
 # Nothing
 It's a game about nothing!
