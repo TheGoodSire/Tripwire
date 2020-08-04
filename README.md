@@ -1,4 +1,4 @@
-![Nothing Game Art](https://github.com/TheGoodSire/The-Dragon-s-Lair/blob/master/Dragon's%20Lair%20Game%20Art.jpg)
+![Nothing Game Art]()
 
 # Nothing
 It's a game about nothing!
