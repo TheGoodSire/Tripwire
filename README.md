@@ -1,16 +1,16 @@
 ![Tripwire Game Art](https://github.com/TheGoodSire/Nothing/blob/master/Tripwire%20V3.jpg)
 
-# TRIPWIRE: PARTY ALARM
+# TRIPWIRE: The Party Alarm
 
-Or at least that is what a blink would tell you from it’s perspective. That is because if any input is received by the blink it dies and it’s game over. This absurdly simple concept serves as the basis for eighteen new blinks games outlined below, as well as new “cameos” which allow players to modify other games in their existing blinks library. Feel free to modify the rules of these games as you see fit and make them your own. Use this concept to make your own new games, or even to remix existing blinks games. The possibilities are endless….
+For thousands of years, mankind has used Tripwires to sound alarms, active traps, trigger deadly weapons and protect valuable treasure. Now, Tripwires are used to deliver weapons grade fun in the form of 18 new blinks party games. From dodgeball, to bowling and even battle royal there is sure to be something for everyone in this grab bag of fun. The party doesn't stop there tough, Tripwire Blinks can also be used to enhance your favorite existing blinks games for a new and exciting challenge. Set up the Tripwire at your next game night, and you won't need an alarm to tell you that the fun has arrived.
 
 # The Games:
 
-Players can play the following games in either Free Play or Party Mode.
+Tripwire can be played in either Free Play or Party Mode.
 
-Free Play Mode - Players select games to play as they wish.
+Free Play Mode - In free play mode, players select games to play as they wish.
 
-Party Mode - Players compete to be the first to score a certain number of game wins (3, 5, 10). Games are selected randomly through the game selector which is accessed by long pressing a blink. The selector will show both a color (Blue, Red, Yellow) and a number (1-6) which will be used to pick a game. If the current number of players is greater than the number of players needed to play a game have all players roll the game selector and the individuals with the lowest number scores sit out. If the current number of players is less than what is needed simply re-select the game. To determine which player or team starts a game have each player or team active a game selector. The player / team with the highest number starts. To decide teams, all players activate game selectors. Players who roll the same color are on the same team. Once a team fills up it is locked and all other players keep rolling until all players are assigned.
+Party Mode - In party mode, players compete to be the first to score a certain number of game wins (3, 5, 10). Games are selected randomly through the game selector which is accessed by long pressing a blink. The selector will show both a color (Blue, Red, Yellow) and a number (1-6) which will be used to pick a game. If the current number of players is greater than the number of players needed to play a game, have all players roll the game selector and the individuals with the lowest number scores sit out. If the current number of players is less than what is needed simply re-select the game. To determine which player or team starts a game have each player or team active a game selector. The player / team with the highest number starts. To decide teams, all players activate game selectors. Players who roll the same color are on the same team. Once a team fills up it is locked and all other players keep rolling until all players are assigned.
 
 B1. Firing squad - One player holds their finger on top of a blink in the middle of the table. They can move it, but only gently enough to not activate a button press. All other players slide blinks from the edges of the table trying to kill the center blink. Whoever lands the killing blow takes the new place in the center. Player can play as long as they want, or set a limit of first player to dodge 25 blinks wins.
 
