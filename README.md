@@ -2,7 +2,7 @@
 
 # TRIPWIRE: The Party Alarm
 
-For thousands of years mankind has used Tripwires to sound alarms, active traps, trigger deadly weapons, and protect valuable treasure. Now, Tripwires are used to deliver weapons grade fun in the form of 18 new blinks party games. From dodgeball, to bowling and even battle royal there is sure to be something for everyone in this grab bag of fun. The party doesn't stop there tough, Tripwire Blinks can also be used to enhance your favorite blinks games for a new and exciting challenge. Set up the Tripwire at your next game night, and you won't need an alarm to tell you that the fun has arrived.
+For thousands of years mankind has used Tripwires to sound alarms, active traps, trigger deadly weapons, and protect valuable treasure. Now, Tripwires are used to deliver weapons grade fun in the form of 18 new blinks party games. From dodgeball, to bowling and even battle royal there is sure to be something for everyone in this grab bag of fun. The party doesn't stop there tough, Tripwire Blinks can also be used in cameos to enhance your favorite blinks games for a new and exciting challenge. Set up the Tripwire at your next game night, and you won't need an alarm to tell you that the fun has arrived.
 
 # The Games:
 Tripwire blinks sound the alarm whenever they detect a change whether it be a button press, or a connection/disconnection from another blink. The party games below utilize this principal in different ways to form 18 unique and challenging games.  
