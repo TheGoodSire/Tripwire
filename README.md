@@ -1,4 +1,4 @@
-![Tripwire Game Art]()
+![Tripwire Game Art](https://github.com/TheGoodSire/Nothing/blob/master/Tripwire%20V3.jpg)
 
 # Nothing
 It's a game about nothing!
