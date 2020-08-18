@@ -1,6 +1,6 @@
 ![Tripwire Game Art](https://github.com/TheGoodSire/Nothing/blob/master/Tripwire%20V3.jpg)
 
-# Nothing
+# TRIPWIRE: Party Alarm
 It's a game about nothing!
 
 Or at least that is what a blink would tell you from it’s perspective. That is because if any input is received by the blink it dies and it’s game over. This absurdly simple concept serves as the basis for eighteen new blinks games outlined below, as well as new “cameos” which allow players to modify other games in their existing blinks library. Feel free to modify the rules of these games as you see fit and make them your own. Use this concept to make your own new games, or even to remix existing blinks games. The possibilities are endless….
